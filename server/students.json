@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "full name": "Benmrad Bilel",
+      "date of birth": "09/11/2001",
+      "place of birth": "Nabeul",
+      "phone number": 50802634,
+      "notes": {
+        "math": 5,
+        "science": 20,
+        "history": 20
+      },
+      "picture": "blob:http://localhost:8293/624c4e95-55bd-41a8-8037-4da6aae57324",
+      "group": "DSI 32"
+    },
+    {
+      "id": 2,
+      "full name": "Mohammed",
+      "date of birth": "09/11/2001",
+      "place of birth": "Kairouan",
+      "phone number": 55555555,
+      "notes": {
+        "math": 20,
+        "science": 20,
+        "history": 20
+      },
+      "picture": "/data/user/0/com.example.student/cache/220cefee-4f87-4a45-a2ac-847ba8f39d9a7382476910462857331.jpg",
+      "group": "DSI 31"
+    }
+  ]
+}
